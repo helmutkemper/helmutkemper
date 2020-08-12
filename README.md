@@ -1,4 +1,19 @@
-### Hi there 👋
+# Apresentação
+
+Meu nome é **Helmut Kemper**, sou desenvolvedor especialista **[Golang](https://golang.org/)** na [Certsys](https://www.certsys.com.br/).
+
+Caso você esteja começando em [Golang](https://golang.org/), mas, já saiba programar, [essa Wiki](https://github.com/helmutkemper/golang.solid.kiss.complexity.measure/wiki) é minha contribuição para você.
+
+Nela você poderá encontrar uma série de textos sobre como programar em [Golang](https://golang.org/) e como evitar alguns erros.
+
+## Sobre mim
+
+Comecei a programar em assembly do 80C51, microcontrolador da Intel lá pelo final da década de 1990 e me apaxonei por hardware. Depois a vida me levou para [PHP](https://www.php.net/), [MongoDB](https://www.mongodb.com/), mapas do [Open Street Maps](https://www.openstreetmap.org/), [Docker](https://www.docker.com/) e uma infinidade de outras tecnologias.
+
+Por isto, fique de olho na [Wiki](https://github.com/helmutkemper/golang.solid.kiss.complexity.measure/wiki), e aos poucos eu vou adicionando mais esperiências e códigos para serem compartilhados com a comunidade **Open Source**.
+
+E lembre-se:
+> C é vida! Go é uma evolução do C!
 
 <!--
 **helmutkemper/helmutkemper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
