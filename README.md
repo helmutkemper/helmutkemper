@@ -1,6 +1,6 @@
 # Apresentação
 
-Meu nome é **Helmut Kemper**, sou desenvolvedor especialista **[Golang](https://golang.org/)** na [Certsys](https://www.certsys.com.br/).
+Meu nome é **Helmut Kemper**, sou desenvolvedor especialista **[Golang](https://golang.org/)** na **[Certsys](https://www.certsys.com.br/)**.
 
 Caso você esteja começando em [Golang](https://golang.org/), mas, já saiba programar, [essa Wiki](https://github.com/helmutkemper/golang.solid.kiss.complexity.measure/wiki) é minha contribuição para você.
 
