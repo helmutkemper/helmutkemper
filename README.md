@@ -8,7 +8,7 @@ Nela você poderá encontrar uma série de textos sobre como programar em [Golan
 
 ## Sobre mim
 
-Comecei a programar em assembly do 80C51, microcontrolador da Intel lá pelo final da década de 1990 e me apaxonei por hardware. Depois a vida me levou para [PHP](https://www.php.net/), [MongoDB](https://www.mongodb.com/), mapas do [Open Street Maps](https://www.openstreetmap.org/), [Docker](https://www.docker.com/) e uma infinidade de outras tecnologias.
+Comecei a programar em assembly do 80C51, microcontrolador da Intel lá pelo final da década de 1990 e me apaxonei por hardware. Depois a vida me levou para [PHP](https://www.php.net/), [MongoDB](https://www.mongodb.com/), mapas do [Open Street Maps](https://www.openstreetmap.org/), [Docker](https://www.docker.com/), [gRPC](https://grpc.io/) e uma infinidade de outras tecnologias.
 
 Por isto, fique de olho na [Wiki](https://github.com/helmutkemper/golang.solid.kiss.complexity.measure/wiki), e aos poucos eu vou adicionando mais esperiências e códigos para serem compartilhados com a comunidade **Open Source**.
 
