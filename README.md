@@ -12,6 +12,12 @@ Comecei a programar em assembly do 80C51, microcontrolador da Intel lá pelo fin
 
 Por isto, fique de olho na [Wiki](https://github.com/helmutkemper/golang.solid.kiss.complexity.measure/wiki), e aos poucos eu vou adicionando mais esperiências e códigos para serem compartilhados com a comunidade **Open Source**.
 
+## Agradecimento especial
+
+O profissional que eu sou hoje tem uma influência muito grande de todos os meus professores, amigos e colegas de trabalho, mas, uma pessoa se destacou em todos esses anos, meu amigo e mentor [Abner Barros](https://www.linkedin.com/in/abner-barros-5b86409/). Sem ele, eu não teria chegado aqui!
+
+**Obriado Abner!**
+
 E lembre-se:
 > C é vida! Go é uma evolução do C!
 
