@@ -14,9 +14,9 @@ Por isto, fique de olho na [Wiki](https://github.com/helmutkemper/golang.solid.k
 
 ## Agradecimento especial
 
-O profissional que eu sou hoje tem uma influência muito grande de todos os meus professores, amigos e colegas de trabalho, mas, uma pessoa se destacou em todos esses anos, meu amigo e mentor [Abner Barros](https://www.linkedin.com/in/abner-barros-5b86409/). Sem ele, eu não teria chegado aqui!
+O profissional que eu sou hoje tem uma influência muito grande de todos os meus professores, amigos e colegas de trabalho, mas, uma pessoa se destacou em todos esses anos, meu amigo e mentor [**Abner Barros**](https://www.linkedin.com/in/abner-barros-5b86409/). Sem ele, eu não teria chegado aqui!
 
-**Obriado Abner!**
+**Obriado Hômí!**
 
 E lembre-se:
 > C é vida! Go é uma evolução do C!
