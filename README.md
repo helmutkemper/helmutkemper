@@ -18,6 +18,14 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
 
 **Obriado Hômí!**
 
+## Projetos pessoais
+
+[**https://github.com/helmutkemper/iotmaker.docker**](https://github.com/helmutkemper/iotmaker.docker)
+
+Gerenciador de containers por linha de código **golang**.
+
+Permite a qualquer desenvolvedor **golang** criar e gerenciar container de forma simples e documentada por código. 
+
 E lembre-se:
 > C é vida! Go é uma evolução do C!
 
