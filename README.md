@@ -22,7 +22,14 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
 
 [**https://github.com/helmutkemper/iotmaker.docker**](https://github.com/helmutkemper/iotmaker.docker)
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/helmutkemper/iotmaker.docker)](https://goreportcard.com/report/github.com/helmutkemper/iotmaker.docker)
+<p>
+  <a href="https://goreportcard.com/report/github.com/helmutkemper/iotmaker.docker">
+    <img src="https://goreportcard.com/badge/github.com/helmutkemper/iotmaker.docker">
+  </a>
+  <a href="https://pkg.go.dev/github.com/helmutkemper/iotmaker.docker/v1.0.0.0-RC?tab=doc">
+    <img src="https://github.com/helmutkemper/iotmaker.docker/blob/master/image/godoc.svg">
+  </a>
+</p>
 
 Gerenciador de containers por linha de código **golang**.
 
