@@ -22,6 +22,8 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
 
 [**https://github.com/helmutkemper/iotmaker.docker**](https://github.com/helmutkemper/iotmaker.docker)
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/helmutkemper/iotmaker.docker)](https://goreportcard.com/report/github.com/helmutkemper/iotmaker.docker)
+
 Gerenciador de containers por linha de código **golang**.
 
 Permite a qualquer desenvolvedor **golang** criar e gerenciar container de forma simples e documentada por código. 
