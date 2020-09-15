@@ -26,7 +26,7 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
   <a href="https://goreportcard.com/report/github.com/helmutkemper/iotmaker.docker">
     <img src="https://goreportcard.com/badge/github.com/helmutkemper/iotmaker.docker">
   </a>
-  <a href="https://pkg.go.dev/github.com/helmutkemper/iotmaker.docker/v1.0.0.0-RC?tab=doc">
+  <a href="https://pkg.go.dev/github.com/helmutkemper/iotmaker.docker/v1.0.0?tab=doc">
     <img src="https://github.com/helmutkemper/iotmaker.docker/blob/master/image/godoc.svg">
   </a>
 </p>
@@ -34,6 +34,20 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
 Gerenciador de containers por linha de código **golang**.
 
 Permite a qualquer desenvolvedor **golang** criar e gerenciar container de forma simples e documentada por código. 
+
+[**https://github.com/helmutkemper/iotmaker.docker.util.whaleAquarium**](https://github.com/helmutkemper/iotmaker.docker.util.whaleAquarium)
+
+<p>
+  <a href="https://goreportcard.com/report/github.com/helmutkemper/iotmaker.docker.util.whaleAquarium">
+    <img src="https://goreportcard.com/badge/github.com/helmutkemper/iotmaker.docker.util.whaleAquarium">
+  </a>
+  <a href="https://pkg.go.dev/github.com/helmutkemper/iotmaker.docker.util.whaleAquarium/v1.0.0?tab=doc">
+    <img src="https://github.com/helmutkemper/iotmaker.docker.util.whaleAquarium/blob/master/image/godoc.svg">
+  </a>
+</p>
+
+Exemplos de como usar o projeto **iotmaker.docker** com funções prontas para uso de como instalar ferramentas como o [**MongoDB**](https://www.mongodb.com/) e 
+[**Vault**](https://www.vaultproject.io/).
 
 E lembre-se:
 > C é vida! Go é uma evolução do C!
