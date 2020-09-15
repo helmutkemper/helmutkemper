@@ -35,6 +35,8 @@ Gerenciador de containers por linha de código **golang**.
 
 Permite a qualquer desenvolvedor **golang** criar e gerenciar container de forma simples e documentada por código. 
 
+----------------------------
+
 [**https://github.com/helmutkemper/iotmaker.docker.util.whaleAquarium**](https://github.com/helmutkemper/iotmaker.docker.util.whaleAquarium)
 
 <p>
