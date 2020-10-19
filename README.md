@@ -20,6 +20,20 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
 
 ## Projetos pessoais
 
+[**https://github.com/helmutkemper/iotmaker.network.util.overload**](https://github.com/helmutkemper/iotmaker.network.util.overload)
+
+<p>
+  <a href="https://goreportcard.com/report/github.com/helmutkemper/iotmaker.network.util.overload">
+    <img src="https://goreportcard.com/badge/github.com/helmutkemper/iotmaker.network.util.overload">
+  </a>
+</p>
+
+> trabalho preliminar
+
+Simula uma rede lenta para testar estabilidade de conexões entre servidores e clientes 
+com o intuito de diminuir o problema de projetos que funcionam local, mas, apresentam 
+erros aleatórios em produção.
+
 [**https://github.com/helmutkemper/iotmaker.docker**](https://github.com/helmutkemper/iotmaker.docker)
 
 <p>
