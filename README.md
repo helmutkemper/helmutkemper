@@ -1,6 +1,12 @@
-# Apresentação
+# Presentation (English):
 
-Meu nome é **Helmut Kemper**, sou desenvolvedor especialista **[Golang](https://golang.org/)** na **[Certsys](https://www.certsys.com.br/)**.
+I am [**Helmut Kemper**](https://www.linkedin.com/in/helmut-kemper-93a5441b/) and I am a specialist developer with about 5 years of experience in Golang and more than twenty years of professional experience.
+
+![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=helmutkemper&show_icons=true)
+
+# Apresentação (Português):
+
+Meu nome é [**Helmut Kemper**](https://www.linkedin.com/in/helmut-kemper-93a5441b/), sou desenvolvedor especialista **[Golang](https://golang.org/)** na **[Certsys](https://www.certsys.com.br/)**.
 
 Caso você esteja começando em [Golang](https://golang.org/), mas, já saiba programar, [**essa Wiki**](https://github.com/helmutkemper/golang.solid.kiss.complexity.measure/wiki) é minha contribuição para você.
 
@@ -20,6 +26,8 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
 
 ## Projetos pessoais
 
+### network overload
+
 [**https://github.com/helmutkemper/iotmaker.network.util.overload**](https://github.com/helmutkemper/iotmaker.network.util.overload)
 
 <p>
@@ -33,6 +41,8 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
 Simula uma rede lenta para testar estabilidade de conexões entre servidores e clientes 
 com o intuito de diminuir o problema de projetos que funcionam local, mas, apresentam 
 erros aleatórios em produção.
+
+### docker
 
 [**https://github.com/helmutkemper/iotmaker.docker**](https://github.com/helmutkemper/iotmaker.docker)
 
@@ -49,7 +59,7 @@ Gerenciador de containers por linha de código **golang**.
 
 Permite a qualquer desenvolvedor **golang** criar e gerenciar container de forma simples e documentada por código. 
 
-----------------------------
+### whale aquarium
 
 [**https://github.com/helmutkemper/iotmaker.docker.util.whaleAquarium**](https://github.com/helmutkemper/iotmaker.docker.util.whaleAquarium)
 
