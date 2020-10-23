@@ -38,7 +38,7 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
   </a>
 </p>
 
-> trabalho preliminar
+> work in progress / trabalho preliminar
 
 **English:** Simulates a slow network to test stability of connections between servers and clients
 in order to reduce the problem of projects that work locally, but have
