@@ -2,6 +2,8 @@
 
 I am [**Helmut Kemper**](https://www.linkedin.com/in/helmut-kemper-93a5441b/) and I am a specialist developer with about 5 years of experience in Golang and more than 20 years of professional experience.
 
+I started programming in assembly of the [80C51, Intel](https://www.nxp.com/docs/en/data-sheet/8XC51_8XC52.pdf) microcontroller back in the late 1990s and fell in love with hardware. Then life took me to [PHP](https://www.php.net/), [MongoDB](https://www.mongodb.com/), [Open Street Maps](https://www.openstreetmap.org/), [Docker](https://www.docker.com/), [gRPC](https://grpc.io/) and a host of other technologies.
+
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=helmutkemper&show_icons=true)
 
 # Apresentação (Português):
@@ -14,7 +16,7 @@ Nela você poderá encontrar uma série de textos sobre como programar em [Golan
 
 ## Sobre mim
 
-Comecei a programar em assembly do 80C51, microcontrolador da Intel lá pelo final da década de 1990 e me apaxonei por hardware. Depois a vida me levou para [PHP](https://www.php.net/), [MongoDB](https://www.mongodb.com/), mapas do [Open Street Maps](https://www.openstreetmap.org/), [Docker](https://www.docker.com/), [gRPC](https://grpc.io/) e uma infinidade de outras tecnologias.
+Comecei a programar em assembly do [80C51](https://www.nxp.com/docs/en/data-sheet/8XC51_8XC52.pdf), microcontrolador da Intel lá pelo final da década de 1990 e me apaxonei por hardware. Depois a vida me levou para [PHP](https://www.php.net/), [MongoDB](https://www.mongodb.com/), mapas do [Open Street Maps](https://www.openstreetmap.org/), [Docker](https://www.docker.com/), [gRPC](https://grpc.io/) e uma infinidade de outras tecnologias.
 
 Por isto, fique de olho na [Wiki](https://github.com/helmutkemper/golang.solid.kiss.complexity.measure/wiki), e aos poucos eu vou adicionando mais esperiências e códigos para serem compartilhados com a comunidade **Open Source**.
 
