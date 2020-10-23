@@ -26,7 +26,7 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
 
 **Obriado Hômí!**
 
-## Projetos pessoais
+## Personal projects / Projetos pessoais
 
 ### network overload
 
@@ -40,7 +40,11 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
 
 > trabalho preliminar
 
-Simula uma rede lenta para testar estabilidade de conexões entre servidores e clientes 
+**English:** Simulates a slow network to test stability of connections between servers and clients
+in order to reduce the problem of projects that work locally, but have
+random errors in production.
+
+**Português:** Simula uma rede lenta para testar estabilidade de conexões entre servidores e clientes 
 com o intuito de diminuir o problema de projetos que funcionam local, mas, apresentam 
 erros aleatórios em produção.
 
@@ -57,7 +61,11 @@ erros aleatórios em produção.
   </a>
 </p>
 
-Gerenciador de containers por linha de código **golang**.
+**English:** Container manager by line of **Golang** code.
+
+It allows any developer **Golang** to create and manage containers in a simple and documented way by code.
+
+**Português:** Gerenciador de containers por linha de código **golang**.
 
 Permite a qualquer desenvolvedor **golang** criar e gerenciar container de forma simples e documentada por código. 
 
@@ -74,7 +82,10 @@ Permite a qualquer desenvolvedor **golang** criar e gerenciar container de forma
   </a>
 </p>
 
-Exemplos de como usar o projeto **iotmaker.docker** com funções prontas para uso de como instalar ferramentas como o [**MongoDB**](https://www.mongodb.com/) e 
+**English:** Examples of how to use the **iotmaker.docker** project with ready-to-use functions like installing tools like [**MongoDB**](https://www.mongodb.com/) and
+[**Vault**](https://www.vaultproject.io/).
+
+**Português:** Exemplos de como usar o projeto **iotmaker.docker** com funções prontas para uso de como instalar ferramentas como o [**MongoDB**](https://www.mongodb.com/) e 
 [**Vault**](https://www.vaultproject.io/).
 
 E lembre-se:
