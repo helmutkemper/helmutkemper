@@ -1,6 +1,6 @@
 # Presentation (English):
 
-I am [**Helmut Kemper**](https://www.linkedin.com/in/helmut-kemper-93a5441b/) and I am a specialist developer with about 5 years of experience in Golang and more than twenty years of professional experience.
+I am [**Helmut Kemper**](https://www.linkedin.com/in/helmut-kemper-93a5441b/) and I am a specialist developer with about 5 years of experience in Golang and more than 20 years of professional experience.
 
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=helmutkemper&show_icons=true)
 
