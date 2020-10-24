@@ -66,11 +66,9 @@ erros aleatórios em produção.
 </p>
 
 **English:** Container manager by line of **Golang** code.
-
 It allows any developer **Golang** to create and manage containers in a simple and documented way by code.
 
 **Português:** Gerenciador de containers por linha de código **golang**.
-
 Permite a qualquer desenvolvedor **golang** criar e gerenciar container de forma simples e documentada por código. 
 
 ### whale aquarium
