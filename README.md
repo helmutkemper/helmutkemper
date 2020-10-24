@@ -4,7 +4,7 @@ I am [**Helmut Kemper**](https://www.linkedin.com/in/helmut-kemper-93a5441b/) an
 
 I started programming in assembly of the [80C51, Intel](https://www.nxp.com/docs/en/data-sheet/8XC51_8XC52.pdf) microcontroller back in the late 1990s and fell in love with hardware. Then life took me to [PHP](https://www.php.net/), [MongoDB](https://www.mongodb.com/), [Open Street Maps](https://www.openstreetmap.org/), [Docker](https://www.docker.com/), [gRPC](https://grpc.io/) and a host of other technologies.
 
-> **C** is life! **Golang** is an evolution of **C**!
+#### **C** is life! **Golang** is an evolution of **C**!
 
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=helmutkemper&show_icons=true)
 
@@ -28,7 +28,7 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
 
 **Obriado Hômí!**
 
-> **C** é vida! **Golang** é a evolução do **C**!
+#### **C** é vida! **Golang** é a evolução do **C**!
 
 ## Personal projects / Projetos pessoais
 
