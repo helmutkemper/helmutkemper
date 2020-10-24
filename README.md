@@ -4,6 +4,8 @@ I am [**Helmut Kemper**](https://www.linkedin.com/in/helmut-kemper-93a5441b/) an
 
 I started programming in assembly of the [80C51, Intel](https://www.nxp.com/docs/en/data-sheet/8XC51_8XC52.pdf) microcontroller back in the late 1990s and fell in love with hardware. Then life took me to [PHP](https://www.php.net/), [MongoDB](https://www.mongodb.com/), [Open Street Maps](https://www.openstreetmap.org/), [Docker](https://www.docker.com/), [gRPC](https://grpc.io/) and a host of other technologies.
 
+> **C** is life! **Golang** is an evolution of **C**!
+
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=helmutkemper&show_icons=true)
 
 # Apresentação (Português):
@@ -25,6 +27,8 @@ Por isto, fique de olho na [Wiki](https://github.com/helmutkemper/golang.solid.k
 O profissional que eu sou hoje tem uma influência muito grande de todos os meus professores, amigos e colegas de trabalho, mas, uma pessoa se destacou em todos esses anos, meu amigo e mentor [**Abner Barros**](https://www.linkedin.com/in/abner-barros-5b86409/). Sem ele, eu não teria chegado aqui!
 
 **Obriado Hômí!**
+
+> **C** é vida! **Golang** é a evolução do **C**!
 
 ## Personal projects / Projetos pessoais
 
@@ -87,9 +91,6 @@ Permite a qualquer desenvolvedor **golang** criar e gerenciar container de forma
 
 **Português:** Exemplos de como usar o projeto **iotmaker.docker** com funções prontas para uso de como instalar ferramentas como o [**MongoDB**](https://www.mongodb.com/) e 
 [**Vault**](https://www.vaultproject.io/).
-
-E lembre-se:
-> C é vida! Go é uma evolução do C!
 
 <!--
 **helmutkemper/helmutkemper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
