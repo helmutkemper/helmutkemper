@@ -32,25 +32,32 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
 
 ## Personal projects / Projetos pessoais
 
-### network overload
 
-[**https://github.com/helmutkemper/iotmaker.network.util.overload**](https://github.com/helmutkemper/iotmaker.network.util.overload)
+### docker builder
+
+[**https://github.com/helmutkemper/iotmaker.docker.builder**](https://github.com/helmutkemper/iotmaker.docker.builder)
 
 <p>
-  <a href="https://goreportcard.com/report/github.com/helmutkemper/iotmaker.network.util.overload">
-    <img src="https://goreportcard.com/badge/github.com/helmutkemper/iotmaker.network.util.overload">
+  <a href="https://goreportcard.com/report/github.com/helmutkemper/iotmaker.docker.builder">
+    <img src="https://goreportcard.com/badge/github.com/helmutkemper/iotmaker.docker.builder">
   </a>
 </p>
 
-> work in progress / trabalho preliminar
+**English:** Golang and docker made simple
 
-**English:** Simulates a slow network to test stability of connections between servers and clients
-in order to reduce the problem of projects that work locally, but have
-random errors in production.
+**Português:** Golang e docker de uma forma simples
 
-**Português:** Simula uma rede lenta para testar estabilidade de conexões entre servidores e clientes 
-com o intuito de diminuir o problema de projetos que funcionam local, mas, apresentam 
-erros aleatórios em produção.
+```golang
+  var mongoDocker = &ContainerBuilder{}
+  mongoDocker.SetImageName("mongo:latest")
+  mongoDocker.SetContainerName("container_delete_mongo_after_test")
+  mongoDocker.AddPortToOpen("27017")
+  mongoDocker.SetEnvironmentVar([]string{"--host 0.0.0.0"})
+  err = mongoDocker.AddFiileOrFolderToLinkBetweenConputerHostAndContainer("./test/data", "/data")
+  mongoDocker.SetWaitStringWithTimeout(`"msg":"Waiting for connections","attr":{"port":27017`, 20*time.Second)
+  err = mongoDocker.Init()
+  err = mongoDocker.ContainerBuildFromImage()
+```
 
 ### docker
 
@@ -70,25 +77,6 @@ It allows any developer **Golang** to create and manage containers in a simple a
 
 **Português:** Gerenciador de containers por linha de código **golang**.
 Permite a qualquer desenvolvedor **golang** criar e gerenciar container de forma simples e documentada por código. 
-
-### whale aquarium
-
-[**https://github.com/helmutkemper/iotmaker.docker.util.whaleAquarium**](https://github.com/helmutkemper/iotmaker.docker.util.whaleAquarium)
-
-<p>
-  <a href="https://goreportcard.com/report/github.com/helmutkemper/iotmaker.docker.util.whaleAquarium">
-    <img src="https://goreportcard.com/badge/github.com/helmutkemper/iotmaker.docker.util.whaleAquarium">
-  </a>
-  <a href="https://pkg.go.dev/github.com/helmutkemper/iotmaker.docker.util.whaleAquarium/v1.0.0?tab=doc">
-    <img src="https://github.com/helmutkemper/iotmaker.docker.util.whaleAquarium/blob/master/image/godoc.svg">
-  </a>
-</p>
-
-**English:** Examples of how to use the **iotmaker.docker** project with ready-to-use functions like installing tools like [**MongoDB**](https://www.mongodb.com/) and
-[**Vault**](https://www.vaultproject.io/).
-
-**Português:** Exemplos de como usar o projeto **iotmaker.docker** com funções prontas para uso de como instalar ferramentas como o [**MongoDB**](https://www.mongodb.com/) e 
-[**Vault**](https://www.vaultproject.io/).
 
 <!--
 **helmutkemper/helmutkemper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
