@@ -49,8 +49,6 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
 
 ```golang
 var mongoDocker = &ContainerBuilder{}
-// set a docker network
-mongoDocker.SetNetworkDocker(&netDocker)
 // set an image name
 mongoDocker.SetImageName("mongo:latest")
 // set a container name
