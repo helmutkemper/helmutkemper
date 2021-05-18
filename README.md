@@ -48,15 +48,45 @@ O profissional que eu sou hoje tem uma influência muito grande de todos os meus
 **Português:** Golang e docker de uma forma simples
 
 ```golang
-  var mongoDocker = &ContainerBuilder{}
-  mongoDocker.SetImageName("mongo:latest")
-  mongoDocker.SetContainerName("container_delete_mongo_after_test")
-  mongoDocker.AddPortToOpen("27017")
-  mongoDocker.SetEnvironmentVar([]string{"--host 0.0.0.0"})
-  err = mongoDocker.AddFiileOrFolderToLinkBetweenConputerHostAndContainer("./test/data", "/data")
-  mongoDocker.SetWaitStringWithTimeout(`"msg":"Waiting for connections","attr":{"port":27017`, 20*time.Second)
-  err = mongoDocker.Init()
-  err = mongoDocker.ContainerBuildFromImage()
+var mongoDocker = &ContainerBuilder{}
+// set a docker network
+mongoDocker.SetNetworkDocker(&netDocker)
+// set an image name
+mongoDocker.SetImageName("mongo:latest")
+// set a container name
+mongoDocker.SetContainerName("container_delete_mongo_after_test")
+// set a port to expose
+mongoDocker.AddPortToOpen("27017")
+// se a environment var list
+mongoDocker.SetEnvironmentVar(
+  []string{
+    "--host 0.0.0.0",
+  },
+)
+// set a MongoDB data dir to ./test/data
+err = mongoDocker.AddFiileOrFolderToLinkBetweenConputerHostAndContainer("./test/data", "/data")
+if err != nil {
+  panic(err)
+}
+
+// set a text indicating for container ready for use
+mongoDocker.SetWaitStringWithTimeout(
+  `"msg":"Waiting for connections","attr":{"port":27017`,
+  20*time.Second,
+)
+// inicialize the object before sets
+err = mongoDocker.Init()
+if err != nil {
+  panic(err)
+}
+
+// build a container
+err = mongoDocker.ContainerBuildFromImage()
+if err != nil {
+  panic(err)
+}
+
+// At this point, the MongoDB is ready for use on port 27017
 ```
 
 ### docker
