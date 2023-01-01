@@ -22,7 +22,7 @@ HTML code, much slower.
 
 ![html code](./images/html2.png)
 
-Golang code, running as a binary in the browser. Almost 80% of the speed of a native app.
+Golang code, running as a binary. Almost 80% of the speed of a native app in a simple browser.
 
 ![webassembly](./images/webassembly.png)
 
