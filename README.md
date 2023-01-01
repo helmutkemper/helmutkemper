@@ -20,7 +20,7 @@ There are already more than 200 examples!
 
 HTML code, much slower.
 
-![html code](./images/html.png)
+![html code](./images/html2.png)
 
 Golang code, running as a binary in the browser.
 
