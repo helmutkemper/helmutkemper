@@ -14,7 +14,7 @@ Run all the necessary infrastructure for your microservice to work, as simple te
 
 ## Webassembly
 
-A framework made to allow running golang code at almost 80% of the speed of a native app in the browser, without the need for installers.
+[A framework](https://github.com/helmutkemper/webassembly) made to allow running golang code at almost 80% of the speed of a native app in the browser, without the need for installers.
 
 There are already more than 200 examples!
 
