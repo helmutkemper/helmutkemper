@@ -22,7 +22,7 @@ HTML code, much slower.
 
 ![html code](./images/html2.png)
 
-Golang code, running as a binary in the browser.
+Golang code, running as a binary in the browser. Almost 80% of the speed of a native app.
 
 ![webassembly](./images/webassembly.png)
 
@@ -32,4 +32,19 @@ Golang code, running as a binary in the browser.
 #### **C** is life! **Golang** is an evolution of **C**!
 
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=helmutkemper&show_icons=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
